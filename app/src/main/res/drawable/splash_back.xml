@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@color/white"/>
+
+    <item
+        android:bottom="150dp"
+        android:drawable="@drawable/engg"
+        android:gravity="center"/>
+
+    <item
+        android:top="60dp"
+        android:gravity="center"
+        android:drawable="@drawable/text">
+    </item>
+</layer-list>
